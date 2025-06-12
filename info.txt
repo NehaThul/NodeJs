@@ -1,0 +1,58 @@
+
+server:
+request:
+response
+
+protocol - http https
+port - 8080 5500
+api - last ka option path me
+methods - request : get
+post
+put
+delete
+patch
+
+Nodejs:
+runtime enviorment
+
+nodejs artitecture:
+installation
+
+1. __filename
+2. __dirname
+3. setTimout()- function - time - delay
+4. setInterval() - function - time - 
+5. clearTimeout()
+6. console
+
+
+filesystem module:
+operations:
+- open 
+- close
+- append
+- read
+- save
+- delete 
+- create 
+- download
+- write 
+
+
+
+flags-
+r - read only
+r+ - read, write
+rs - read sync
+rs+ - read , write, sync
+w -  write only
+wx - binary
+w+ - read write
+wx+ - 
+a  - append
+ax -
+a+ -
+ax+ -
+
+writeFile = if available data write if no then will create file 
+appendfile = if available data write if no then will create file 
